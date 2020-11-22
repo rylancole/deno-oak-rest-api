@@ -13,12 +13,14 @@ cd deno-oak-rest-api
 
 [Install Deno](https://deno.land/). This can be done with any of the following commands (depending on OS):
 
-`curl -fsSL https://deno.land/x/install/install.sh | sh`  
-`iwr https://deno.land/x/install/install.ps1 -useb | iex`  
-`brew install deno`  
-`choco install deno`  
-`scoop install deno`  
-`cargo install deno`
+```
+curl -fsSL https://deno.land/x/install/install.sh | sh  
+iwr https://deno.land/x/install/install.ps1 -useb | iex  
+brew install deno  
+choco install deno  
+scoop install deno  
+cargo install deno
+```
 
 ## Run
 
